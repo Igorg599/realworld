@@ -7,3 +7,5 @@
 "commit-3" - Реализован хук UseState для страницы логина.
 
 "commit-4" - Реализация fetch внутри effect хука.
+
+"commit-5" - Создан useFrtch хук.
