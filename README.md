@@ -41,3 +41,5 @@
 "commit-20" - Реализован YourFeed.
 
 "commit-21" - Реализована страница поста.
+
+"commit-22" - Реализован useReducer хук в CurrentUser вместо useState.
