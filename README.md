@@ -43,3 +43,5 @@
 "commit-21" - Реализована страница поста.
 
 "commit-22" - Реализован useReducer хук в CurrentUser вместо useState.
+
+"commit-23" - Реализована форма поста.
