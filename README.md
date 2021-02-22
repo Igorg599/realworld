@@ -45,3 +45,5 @@
 "commit-22" - Реализован useReducer хук в CurrentUser вместо useState.
 
 "commit-23" - Реализована форма поста.
+
+"commit-24" - Реализовано создание нового поста.
